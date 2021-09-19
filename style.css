@@ -1,0 +1,29 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    background-color: pink;
+}
+.note
+{
+    font-size: 15px;
+    color: black;
+    background-color: pink;
+}
+body
+{
+    background-size: cover;
+}
+button
+{
+    margin-top: 30px;
+    font-size: 23px;
+}
+canvas
+{
+    background-color: #000000;
+    border-color: 5px white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #73cfd8;
+}
